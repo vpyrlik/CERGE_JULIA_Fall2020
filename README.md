@@ -1,2 +1,3 @@
-# CERGE_JULIA_Fall2020
- CERGE course on Julia in Fall 2020
+## Complementary Courses on Math series
+# The Julia Programming Language
+### CERGE-EI - Fall 2020
