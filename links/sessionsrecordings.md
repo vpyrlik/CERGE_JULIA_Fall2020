@@ -1,4 +1,4 @@
-#Sessions Video Recordings
+# Sessions Video Recordings
 The online sessions of the course are recorded and uploaded to a shared google drive folder. See the links below.
 
 *Notice, that the recordings are uploaded to the cloud shortly after each session. For some time after that, the file is being processed there and is not available for online view. Yet it can always be downloaded.*
