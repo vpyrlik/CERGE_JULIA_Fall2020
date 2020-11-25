@@ -1,5 +1,5 @@
 # The Julia Programming Language
-## Complementary Courses on Math series - CERGE-EI - Fall 2020
+## Complementary Math Courses - CERGE-EI - Fall 2020
 
 Hi! Thanks for being interested in the course on The Julia Programming Language (*aka* Julia). Here you'll find all the course materials, such as sample codes for the sessions, links to the video recordings of the sessions, extra material overview and suggestions, etc.
 
