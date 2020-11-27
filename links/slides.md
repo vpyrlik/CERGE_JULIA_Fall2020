@@ -11,9 +11,9 @@ The slides I use during the sessions can be found here, either in PDF (see the f
  - Technical issues
 
 ## [Session 1 from 27/11/2020](https://docs.google.com/presentation/d/15gUpdORVxgq_RixQ1jt-MBthiB8-3VR7NCgy-uDpmLU/edit?usp=sharing)
- - The first run
- - Modes of Julia's REPL
- - Community
- - Packages
- - The first project & script
- - Basic syntax examples
+- The first run. *Hello, World!*
+- Four modes of Julia's REPL
+- Community
+- Packages and **Pkg**
+- The first project, the first **.jl**
+- Basic syntax

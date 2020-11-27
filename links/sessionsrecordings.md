@@ -11,3 +11,11 @@ The online sessions of the course are recorded and uploaded to a shared google d
  - **Course requirements**
  - **Software versions control**
  - Technical issues
+
+## [Session 1 from 27/11/2020](https://drive.google.com/file/d/1L7YRYkm1cqfb_uM1u9D-LVURScu55Waz/view?usp=sharing)
+  - The first run. *Hello, World!*
+  - Four modes of Julia's REPL
+  - Community
+  - Packages and **Pkg**
+  - The first project, the first **.jl**
+  - Basic syntax
