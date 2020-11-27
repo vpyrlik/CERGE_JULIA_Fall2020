@@ -8,3 +8,11 @@ The sessions take place via [Zoom](https://zoom.us/). We meet Each Friday (start
 Each session meeting is recorded and shared shortly after the meeting. The links to the video files are [here](links/sessionsrecordings.md)
 
 The presentation slides are available [here](links/slides.md)
+
+### Session 1 ∘ [slides](https://docs.google.com/presentation/d/15gUpdORVxgq_RixQ1jt-MBthiB8-3VR7NCgy-uDpmLU/edit?usp=sharing) ∘ [code](session1/)
+ - The first run
+ - Modes of Julia's REPL
+ - Community
+ - Packages
+ - The first project & script
+ - Basic syntax examples
