@@ -41,6 +41,12 @@ X[4:2] #won't work!
 X[4:(-1):2]
 X[:]
 
+#last, first, etc
+X[end]
+X[2:end]
+X[end-1]
+last(X)
+
 ## notice how types of elements in vector interact!
 typeof(X[2])
 typeof(X[5])
