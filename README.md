@@ -10,7 +10,18 @@ The sample code is shared here in advance before each session. If presentation s
 ### Session 2 ∘ slides (tba) ∘ code (tba) ∘ video (tba)
 
 ```diff
-! Dear students, my apologies for the late update. Due to Micro I midterm taking place 4/12, there is not going to be a session that day. Please, keep watching the repo for further updates. **Shortly, I will upload some material for self-study to cover for the skipped session.** See you next week!
+! Dear students,
+! my apologies for the late update.
+!
+! Due to Micro I midterm taking place 4/12,
+! there is not going to be a session that day.
+!
+! Please, keep watching the repo for further updates.
+
+! **Shortly, I will upload some material for self-study
+! to cover for the skipped session.**
+!
+! See you next week!
 ```
 
 ### 27/11/2020 Session 1 ∘ [slides](https://docs.google.com/presentation/d/15gUpdORVxgq_RixQ1jt-MBthiB8-3VR7NCgy-uDpmLU/edit?usp=sharing) ∘ [code](session1/) ∘ [video](https://drive.google.com/file/d/1L7YRYkm1cqfb_uM1u9D-LVURScu55Waz/view?usp=sharing)
