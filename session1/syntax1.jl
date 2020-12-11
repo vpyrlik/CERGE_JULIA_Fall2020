@@ -31,7 +31,9 @@ F = undef
 
 ["a", "b", "c"]
 
-[1, "a", missing, [1 2 3], nothing]
+[1, "a", missing, [1 ["a" 1] 3], nothing]
+
+[1 2 3 missing 5 6 7]
 
 ## assigning and accessing vectors
 X = [4, 45, 1.3, 0.3, missing]
@@ -48,8 +50,14 @@ X[end-1]
 last(X)
 
 ## notice how types of elements in vector interact!
+typeof(X)
+
+X[2]
 typeof(X[2])
+
+X[5]
 typeof(X[5])
+
 typeof(X[1:4])
 
 ## an array
@@ -64,3 +72,4 @@ Y[:]
 
 ## accessing a dimension
 Y[1,:] #notice the type and the size!
+Y[:,2]

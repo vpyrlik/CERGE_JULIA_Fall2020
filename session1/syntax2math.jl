@@ -20,6 +20,7 @@ Basic Math
 
 2/3
 4.5/2 #check the types
+Int(4/2)#check the types
 
 2^5
 10^(-2) #not so elementary...
@@ -41,6 +42,7 @@ Basic Math
 "a"*"b"
 *("a","b","c")
 *("a", "b", 5) #won't work! neither will "a"*5
+string(5)*"a"
 
 # Operating with vectors
 ## Basic operators to vectors
@@ -78,7 +80,7 @@ C / 5 #hm... what happened?
 B .+ A
 A .* B
 B ./ 2
-B .^ A
+B .^ [1; 2; 3; 4]
 2.5 .^ C
 
 ###be careful! keep track of the dimensions
@@ -108,3 +110,6 @@ A'
 X'Y #compare with X'*Y
 A'B
 Z'Z
+
+M = X'
+M1=transpose(X)

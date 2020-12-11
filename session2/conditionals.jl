@@ -7,9 +7,13 @@ Booleans and conditional evaluation
 ## the boolean type
 true
 false
+typeof(true)
 
 !true
 !false
+
+~true
+~false
 
 ## conditions
 ### simple conditions
@@ -46,8 +50,10 @@ nothing == 0
 nothing == undef
 undef == undef
 
-t = undef
-t == undef
+t1 = undef
+t2 = undef
+t1 == undef
+t2 == t1
 
 ## boolean vectors
 X = [1; 2.5; -3.3; 5; 1]
