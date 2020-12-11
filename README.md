@@ -11,13 +11,14 @@ The sample code is shared here in advance before each session. If presentation s
 - Finishing Session 2 (Conditional evaluations & loops)
 - Functions (details tba)
 
-### 11/12/2020 Session 2 ∘ [code](session2/) ∘ video (tba)
+### 11/12/2020 Session 2 ∘ [code](session2/) ∘ [video](https://drive.google.com/file/d/1cptls_Ny-_VuL7i01TNbAdCWeeIo-Jvw/view?usp=sharing)
 - Finishing the basic syntax (from Session 1)
 - Expressions and Flow controls:
   * Compound expressions, chains, and local variables
   * Boolean values and operations
   * Conditional evaluations *(not covered yet)*
   * Loops *(not covered yet)*
+  * Exceptions handling *(not covered yet)*
 
 ### 27/11/2020 Session 1 ∘ [slides](https://docs.google.com/presentation/d/15gUpdORVxgq_RixQ1jt-MBthiB8-3VR7NCgy-uDpmLU/edit?usp=sharing) ∘ [code](session1/) ∘ [video](https://drive.google.com/file/d/1L7YRYkm1cqfb_uM1u9D-LVURScu55Waz/view?usp=sharing)
 - The first run. *Hello, World!*
