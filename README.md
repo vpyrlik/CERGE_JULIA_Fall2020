@@ -9,6 +9,7 @@ The sample code is shared here in advance before each session. If presentation s
 
 ## Midway Feedback
 Guys! Please, spend only a few minutes of your time to give the early feedback on the course. Follow [the link to the form](https://forms.gle/j5wmB9dP47oRtzAS9) and leave a response. Thanks! *also via qr 👇*
+
 ![](other/midwayfeedback.png)
 
 ### 18/12/2020 Session 3 ∘ slides (tba) ∘ code (tba) ∘ video (tba)
