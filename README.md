@@ -13,17 +13,19 @@ Guys! Please, spend only a few minutes of your time to give the early feedback o
 ![](other/midwayfeedback.png)
 
 ### 18/12/2020 Session 3 ∘ [code](session3/) ∘ [video](https://drive.google.com/file/d/16Zd_vpkfTkubIb-uZdJu6f4F31AuBKTX/view?usp=sharing)
-- Finishing Session 2 (Conditional evaluations & loops)
-- Functions (details tba)
+- Finishing Session 2 (Conditional evaluations, exceptions handling, and loops)
+- Functions basics
+  * Defining and calling functions
+  * Using **return**
 
 ### 11/12/2020 Session 2 ∘ [code](session2/) ∘ [video](https://drive.google.com/file/d/1cptls_Ny-_VuL7i01TNbAdCWeeIo-Jvw/view?usp=sharing)
 - Finishing the basic syntax (from Session 1)
 - Expressions and Flow controls:
   * Compound expressions, chains, and local variables
   * Boolean values and operations
-  * Conditional evaluations *(not covered yet)*
-  * Loops *(not covered yet)*
-  * Exceptions handling *(not covered yet)*
+  * Conditional evaluations *(covered in Session 3)*
+  * Loops *(covered in Session 3)*
+  * Exceptions handling *(covered in Session 3)*
 
 ### 27/11/2020 Session 1 ∘ [slides](https://docs.google.com/presentation/d/15gUpdORVxgq_RixQ1jt-MBthiB8-3VR7NCgy-uDpmLU/edit?usp=sharing) ∘ [code](session1/) ∘ [video](https://drive.google.com/file/d/1L7YRYkm1cqfb_uM1u9D-LVURScu55Waz/view?usp=sharing)
 - The first run. *Hello, World!*
