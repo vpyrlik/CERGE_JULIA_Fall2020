@@ -12,7 +12,7 @@ Guys! Please, spend only a few minutes of your time to give the early feedback o
 
 ![](other/midwayfeedback.png)
 
-### 18/12/2020 Session 3 ∘ slides (tba) ∘ code (tba) ∘ video (tba)
+### 18/12/2020 Session 3 ∘ [code](session3/) ∘ video (tba)
 - Finishing Session 2 (Conditional evaluations & loops)
 - Functions (details tba)
 
