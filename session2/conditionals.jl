@@ -67,10 +67,11 @@ X == Y
 Xt == X
 
 X == Z
+X < Z
 
 X .== Y
 
-X .== Z
+X .== Z #won't work!
 
 X .== Xt
 
@@ -91,7 +92,9 @@ x > 1 && y > 1
 !(x == a)
 !(a !== b)
 
-(X .== Y) && (X.^2 .== Y.^2)
+(X .== Y) && (X.^2 .== Y.^2) #won't work!
+(X .== Y) .* (X.^2 .== Y.^2) #vectorized el-by-el AND
+(X .== Y) .+ (X.^2 .== Y.^2) .> 0 #vectorized el-by-el OR
 
 # conditional evaluation
 ## If-then-else
@@ -136,4 +139,4 @@ a == "Text" ? "it's true" : "no true..."
 
 z = x<0 ? 0 : x
 
-Z .= Y.>0 ? Y : 0
+Z .= Y.>0 ? Y : 0 #won't work -- need a singleton boolean condition

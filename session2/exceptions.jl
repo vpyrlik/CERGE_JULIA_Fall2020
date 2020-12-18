@@ -17,12 +17,16 @@ catch e #catch that error into e
 end
 
 ## assigning
-x = 5
-y = try sqrt(x) catch e "x=$x is not a number" end
+x = 5# or  ="oops"
+y = try
+    sqrt(x)
+catch e
+    "x=$x is not a number"
+end
 
 # types of errors
 ## e.g. DomainError
-x = -5
+x = -5# or ="oops"
 sqrt(-5)
 try
     sqrt(x)

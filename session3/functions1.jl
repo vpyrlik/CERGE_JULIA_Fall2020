@@ -50,7 +50,7 @@ f4 == f1
 #using return
 ##basic return
 ###syntax
-f1 = funtion(x1,x2,x3)
+f1 = function(x1,x2,x3)
     return(x1^2+x2^2+x3^2)
 end
 
@@ -74,10 +74,10 @@ g = function(x,y)
 end
 
 h = function(x)
-    if !(typeof(x)<:Number)
+    if !(typeof(x) <: Number)
         return("must provide a number")
     elseif !(x>=0)
-        return("must provide a positive number")
+        return("must provide a non-negative number")
     else
         return(sqrt(x))
     end
@@ -88,7 +88,7 @@ h(-2)
 h(9)
 
 ## return nothing
-n = function(x)
+n = function()
     println("x is $x")
     println("this function does something, but returns nothing")
     return(nothing)
