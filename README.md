@@ -10,18 +10,18 @@ The sample code is shared here in advance before each session. If presentation s
 ### 🎄 25/12/2020 Session 4 ∘ [code](session3/) ∘ video (TBA)
 Notice, there are no new codes for this session. We are to finish the *functions* started earlier.
 - Optional arguments
-  ⊛ optional arguments in functions
-  ⊛ **keyword** arguments in functions
-  ⊛ functions with variable number of arguments (aka **varargs**)
+  * optional arguments in functions
+  * **keyword** arguments in functions
+  * functions with variable number of arguments (aka **varargs**)
 - Applying functions to arrays
-  ⊛ **dotting** functions
-  ⊛ **looping** functions over arrays
-  ⊛ anonymous functions
-  ⊛ **mapping** functions
+  * **dotting** functions
+  * **looping** functions over arrays
+  * anonymous functions
+  * **mapping** functions
 - Using different iterators
-  ⊛ **eachindex()**
-  ⊛ some methods of **Iterators.**
-  ⊛ **eachrow(), eachcol(), eachslice()**
+  * **eachindex()**
+  * some methods of **Iterators.**
+  * **eachrow(), eachcol(), eachslice()**
 - Basics of recursion in functions
 
 ## Midway Feedback
