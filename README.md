@@ -7,21 +7,21 @@ The sessions take place via [Zoom](https://zoom.us/). We meet Each Friday at 5:3
 
 The sample code is shared here in advance before each session. If presentation slides are used, they are shared, too. Each session meeting is recorded and shared shortly after the meeting. The codes get updated, if changed during the session. All the material can be found on [Google drive](https://drive.google.com/drive/folders/1zwglSjPix7HvA99Hnlir9AFUPjREN7D6?usp=sharing), or via links below:
 
-### 25/12/2020 Session 4 ∘ [code](session3/) ∘ video (TBA)
+### 🎄 25/12/2020 Session 4 ∘ [code](session3/) ∘ video (TBA)
 Notice, there are no new codes for this session. We are to finish the *functions* started earlier.
 - Optional arguments
-  * optional arguments in functions
-  * **keyword** arguments in functions
-  * functions with variable number of arguments (aka **varargs**)
+  ⊛ optional arguments in functions
+  ⊛ **keyword** arguments in functions
+  ⊛ functions with variable number of arguments (aka **varargs**)
 - Applying functions to arrays
-  * **dotting** functions
-  * **looping** functions over arrays
-  * anonymous functions
-  * **mapping** functions
+  ⊛ **dotting** functions
+  ⊛ **looping** functions over arrays
+  ⊛ anonymous functions
+  ⊛ **mapping** functions
 - Using different iterators
-  * **eachindex()**
-  * some methods of **Iterators.**
-  * **eachrow(), eachcol(), eachslice()**
+  ⊛ **eachindex()**
+  ⊛ some methods of **Iterators.**
+  ⊛ **eachrow(), eachcol(), eachslice()**
 - Basics of recursion in functions
 
 ## Midway Feedback
