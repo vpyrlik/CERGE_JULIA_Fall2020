@@ -1,5 +1,5 @@
 # The Julia Programming Language
-## Complementary Math Courses - CERGE-EI - Fall 2020
+## Complementary Math Courses - CERGE-EI - 2020/21
 
 Hi! Thanks for being interested in the course on The Julia Programming Language (*aka* Julia). Here you'll find all the course materials, such as sample codes for the sessions, links to the video recordings of the sessions, extra material overview and suggestions, etc.
 
@@ -7,7 +7,7 @@ The sessions take place via [Zoom](https://zoom.us/). We meet Each Friday at 5:3
 
 The sample code is shared here in advance before each session. If presentation slides are used, they are shared, too. Each session meeting is recorded and shared shortly after the meeting. The codes get updated, if changed during the session. All the material can be found on [Google drive](https://drive.google.com/drive/folders/1zwglSjPix7HvA99Hnlir9AFUPjREN7D6?usp=sharing), or via links below:
 
-### 🎄 25/12/2020 Session 4 ∘ [code](session3/) ∘ video (TBA)
+### 15/01/2021 Session 4 ∘ [code](session3/) ∘ video (TBA)
 Notice, there are no new codes for this session. We are to finish the *functions* started earlier.
 - Optional arguments
   * optional arguments in functions

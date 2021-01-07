@@ -57,7 +57,7 @@ end
 ###structure
 f6 = function(x1,x2)
     x3 = x1+x2
-    return(x3/2) #function execution doen't go further!
+    return(x3/2) #function execution doesn't go further!
 
     #bucnh of stuff that is not used
     x+"a"
