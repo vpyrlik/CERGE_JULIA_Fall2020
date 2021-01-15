@@ -30,13 +30,18 @@ g.(x,[1; 2; 3])
 #looping and mapping
 ## function in a for-loop
 ###basic idea -- not very effective realization
-y = similar(x)
-for i=1:length(x) #try it with @time
-    y[i] = f(x[i])
+@time begin
+    y = similar(x)
+    for i=1:length(x) #try it with @time
+        y[i] = f(x[i])
+    end
 end
 
-###for-loop shortcut
+@time y=f.(x)
+
+###for-loop shortcut !!!
 y = [f(xᵢ) for xᵢ=x] #also try it with @time
+@time y = [f(xᵢ) for xᵢ=x]
 
 ## basic map() syntax
 map(f,x)
