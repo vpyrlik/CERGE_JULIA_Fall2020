@@ -1,5 +1,5 @@
 """
-Session 3:
+Session 3-4:
 dotting, looping, recurring, and mapping
 """
 
