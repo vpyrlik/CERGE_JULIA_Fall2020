@@ -7,6 +7,10 @@ The sessions take place via [Zoom](https://zoom.us/). We meet Each Friday at 5:3
 
 The sample code is shared here in advance before each session. If presentation slides are used, they are shared, too. Each session meeting is recorded and shared shortly after the meeting. The codes get updated, if changed during the session. All the material can be found on [Google drive](https://drive.google.com/drive/folders/1zwglSjPix7HvA99Hnlir9AFUPjREN7D6?usp=sharing), or via links below:
 
+### **date TBA** Session 5 ∘ code (TBA) ∘ video (TBA)
+
+Dear All! Please, be informed that the Julia course sessions are postponed until the end of the examinations season at CERGE. Follow the updates here for further information. See you soon.
+
 ### 15/01/2021 Session 4 ∘ [code](session3/) ∘ [video](https://drive.google.com/file/d/1y3KTLhsa6ZTg_m5V5qTBwCa27EI8bxx6/view?usp=sharing)
 Notice, there are no new codes for this session. We are to finish the *functions* started earlier.
 - Optional arguments
